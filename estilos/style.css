@@ -1,0 +1,42 @@
+@charset "UTF-8";
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+:root {
+    --cor01: #b1a680;
+    --cor02: #7A6D4D;
+    --cor03: #8b5138;
+
+    --fonte01: ;
+    --fonte02: ;
+}
+
+html, body {
+    width: 100vw;
+    height: 100vh;
+    background-color: var(--cor01);
+}
+
+header {
+    padding: 10px;
+    background-color: var(--cor03);
+}
+
+header > h1 {
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+    margin-bottom: 15px;
+    text-indent: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: var(--cor03);
+}
