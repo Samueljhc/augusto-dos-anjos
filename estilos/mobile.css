@@ -1,0 +1,16 @@
+@media screen and (max-width: 501px) {
+    header > h1 {
+        width: 80vw;
+    }
+
+    main {
+        width: 95vw;
+        height: 95vh;
+    }
+}
+
+@media screen and (min-width: 750px) {
+    header > h1 {
+        width: 90vw;
+    }
+}
