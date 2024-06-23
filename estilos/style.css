@@ -72,12 +72,13 @@ div.eu {
 }
 
 div.eu > img {
-    width: 400px;
-    height: 600px;
+    width: 300px;
+    height: 400px;
 }
 
 div.eu > p {
-
+    margin: 5px 5px 5px 5px;
+    font-size: 1.3em;
 }
 
 p {
