@@ -76,8 +76,9 @@ div.eu > img {
 }
 
 div.eu > p {
+    align-self: flex-start;
     margin: auto 5px 5px 5px;
-    font-size: 1em;
+    font-size: 0.8em;
 }
 
 p {
