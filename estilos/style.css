@@ -42,14 +42,12 @@ header {
 header > h1 {
     text-align: center;
     font-family: var(--fonte02);
-    font-size: 2.3em;
     width: 80vw;
 }
 
 header > p {
     text-align: center;
     font-family: var(--fonte02);
-    font-size: 1.3em;
     font-weight: 600;
 }
 
