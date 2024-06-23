@@ -4,8 +4,12 @@
     }
 
     main {
-        width: 95vw;
-        height: 95vh;
+        width: 90vw;
+        height: 90vh;
+    }
+
+    main > h1 {
+        font-size: 1.75em;
     }
 }
 
