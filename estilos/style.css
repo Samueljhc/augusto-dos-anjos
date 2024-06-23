@@ -72,13 +72,12 @@ div.eu {
 }
 
 div.eu > img {
-    margin: auto 5px 5px 5px;
+    width: 400px;
+    height: 600px;
 }
 
 div.eu > p {
-    align-self: flex-start;
-    margin: auto 5px 5px 5px;
-    font-size: 0.8em;
+
 }
 
 p {
